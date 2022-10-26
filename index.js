@@ -15,6 +15,11 @@ app.get("/allcourses", (req, res) => {
     res.send(coursesCollection);
 });
 
+app.get("/courses/:id", (req, res) => {
+    const id = req.params.id;
+    const getSingleItem = coursesCollection?.find(p=> p.id == id);
+    res.send(getSingleItem);
+})
 
 
 app.listen(Port, () => {
