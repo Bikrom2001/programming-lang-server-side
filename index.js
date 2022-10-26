@@ -21,6 +21,12 @@ app.get("/courses/:id", (req, res) => {
     res.send(getSingleItem);
 });
 
+app.get("/checkout/:id", (req, res) => {
+    const id = req.params.id;
+    const getSingleItem = coursesCollection?.find(p=> p.id == id);
+    res.send(getSingleItem);
+});
+
 
 app.listen(Port, () => {
     console.log('server is running', Port);

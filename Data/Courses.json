@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Programming in C++ language",
-        "description": "This course provides a practical hands-on introduction to the C/C++ programming language. Participants will learn the central concepts of the C/C++ language, with emphasis on the use of object-oriented techniques in writing robust code.=",
+        "description":"This course provides a practical hands-on introduction to the C/C++ programming language. Participants will learn the central concepts of the C/C++ language, with emphasis on the use of object-oriented techniques in writing robust code.",
         "image": "https://peoplentech.com.bd/storage/upload/file/7r9hFnytofh43XvIamMKPti852yV5ecR2IKFMCdq.png",
         "name": "Md. Mahbubur Rahman",
         "AuthorImage": "https://peoplentech.com.bd/storage/upload/file/teacher_3216143235.png",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Programming in JAVA language",
-        "description": "In this course you’ll acquire java skills to become a professional java engineer by the end of the course. This will help you fulfilling the objectives of becoming a complete & industry ready-engineer. Not only will you learn the fundamentals and core java but also how to implement java in complex projects.The course is for 5 days. Various instructional methods will be used to teach the objectives mentioned above. The training method would be completely interactive and participative. Students will receive course materials which will be discussed during class.This course is designed for complete beginners and programmers that are switching from other languages. Also, for java programmers who are not feeling confident enough about their existing Java skills.",
+        "description":"In this course, you’ll acquire java skills to become a professional java engineer by the end of the course. This will help you fulfilling the objectives of becoming a complete & industry ready-engineer. Not only will you learn the fundamentals and core java but also how to implement java in complex projects. The course is for 5 days. Various instructional methods will be used to teach the objectives mentioned above. The training method would be completely interactive and participative. Students will receive course materials which will be discussed during class. This course is designed for complete beginners and programmers that are switching from other languages. Also, for java programmers who are not feeling confident enough about their existing Java skills.",
         "image": "https://peoplentech.com.bd/storage/upload/file/STxykRBUg1tuipgpkuWqgHr5KYpAm9Wcaq0jRLam.jpeg",
         "name": "Quazi Mahmudul Huq",
         "AuthorImage": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -20,7 +20,7 @@
     },
     {
         "id": 3,
-        "title": "Web Application Development in Python and Django",
+        "title": "Web Development in Python",
         "description": "For any programmer, learning Python is learning the core programming language & the first time in Bangladesh PeopleNTech is offering Python training in Bangladesh. Python is a widely used, object-orientated, interpreted & high-level programming language. Most of the time programmers use Python for general-purpose programming since it has dynamic semantics. The creator of the Python language is Guido van Rossum. This Python training in Bangladesh will train you for PCAP – Certified Associate in Python Programming certification. It's a professional credential that measures an individual's ability to accomplish coding tasks. This certification will measure your ability related to the basics of programming in the Python language and the fundamental notions and techniques",
         "image": "https://peoplentech.com.bd/storage/upload/file/oJV0D7tqJaWywMH29bsSj9QrQvL4XLHfVtKutYX4.jpeg",
         "name": "Stefan Stefancik",
