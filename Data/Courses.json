@@ -1,62 +1,58 @@
 [
     {
         "id": 1,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
-        "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-        "rating": {
-            "rate": 4.1,
-            "count": 259
-        }
+        "title": "Programming in C++ language",
+        "description": "This course provides a practical hands-on introduction to the C/C++ programming language. Participants will learn the central concepts of the C/C++ language, with emphasis on the use of object-oriented techniques in writing robust code.=",
+        "image": "https://peoplentech.com.bd/storage/upload/file/7r9hFnytofh43XvIamMKPti852yV5ecR2IKFMCdq.png",
+        "name": "Md. Mahbubur Rahman",
+        "AuthorImage": "https://peoplentech.com.bd/storage/upload/file/teacher_3216143235.png",
+        "courseDate": "16-11-2022"
     },
     {
         "id": 2,
-        "title": "Mens Cotton Jacket",
-        "price": 55.99,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 500
-        }
+        "title": "Programming in JAVA language",
+        "description": "In this course you’ll acquire java skills to become a professional java engineer by the end of the course. This will help you fulfilling the objectives of becoming a complete & industry ready-engineer. Not only will you learn the fundamentals and core java but also how to implement java in complex projects.The course is for 5 days. Various instructional methods will be used to teach the objectives mentioned above. The training method would be completely interactive and participative. Students will receive course materials which will be discussed during class.This course is designed for complete beginners and programmers that are switching from other languages. Also, for java programmers who are not feeling confident enough about their existing Java skills.",
+        "image": "https://peoplentech.com.bd/storage/upload/file/STxykRBUg1tuipgpkuWqgHr5KYpAm9Wcaq0jRLam.jpeg",
+        "name": "Quazi Mahmudul Huq",
+        "AuthorImage": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "courseDate": "16-12-2022"
+      
     },
     {
         "id": 3,
-        "title": "Mens Casual Slim Fit",
-        "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-        "rating": {
-            "rate": 2.1,
-            "count": 430
-        }
+        "title": "Web Application Development in Python and Django",
+        "description": "For any programmer, learning Python is learning the core programming language & the first time in Bangladesh PeopleNTech is offering Python training in Bangladesh. Python is a widely used, object-orientated, interpreted & high-level programming language. Most of the time programmers use Python for general-purpose programming since it has dynamic semantics. The creator of the Python language is Guido van Rossum. This Python training in Bangladesh will train you for PCAP – Certified Associate in Python Programming certification. It's a professional credential that measures an individual's ability to accomplish coding tasks. This certification will measure your ability related to the basics of programming in the Python language and the fundamental notions and techniques",
+        "image": "https://peoplentech.com.bd/storage/upload/file/oJV0D7tqJaWywMH29bsSj9QrQvL4XLHfVtKutYX4.jpeg",
+        "name": "Stefan Stefancik",
+        "AuthorImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "courseDate": "06-08-2022"
+        
     },
     {
         "id": 4,
-        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-        "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 400
-        }
+        "title": "Microsoft ASP.NET MVC Core",
+        "description": "To build applications today, ASP.NET MVC Training in Bangladesh a programmer must know how to combine the power of various technologies together to produce software that is a powerful and web-based application. The focus of this course is C# Training with ASP.NET Core and Microsoft SQL Server 2017 through Visual Studio, but along the way, you also see how to use Microsoft Visual Studio 2015 for Web, and you get to build a real dashboard system powered by SQL, C#, AJAX, CSS, HTML, and JQuery. Any of these skills alone are valuable, but knowing how to combine these skills makes you immediately stand in the job market. Enroll today, and learn how to give yourself a great competitive advantage in the job world.",
+        "image": "https://peoplentech.com.bd/storage/upload/file/XFjeLHmOOSqZtttOILC0LM5kMIcLlRrRV0ZFruuJ.jpeg",
+        "name": "Justin Shaifer",
+        "AuthorImage": "https://images.pexels.com/photos/842548/pexels-photo-842548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "courseDate": "15-04-2022"
     },
     {
         "id": 5,
-        "title": "Solid Gold Petite Micropave ",
-        "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-            "rate": 3.9,
-            "count": 70
-        }
+        "title": "Angular JS Training",
+        "description": "AngularJS, one of the greatest well-structured JavaScript frameworks with very compelling and advanced features is dominating the IT world now. It is a new, powerful, client-side technology that provides a way of accomplishing really powerful things in a way that embraces and extends HTML, CSS and JavaScript, while shoring up some of its glaring deficiencies. Also, it is used in simplifying testing, developing technical nuances for developers.AngularJS was developed and maintained by Google. Its latest version is 4. In single-page application, android mobile application and in smooth web application front in, AngularJS is the best programing language. Simple unit test, getting your works done by writing fewer lines of code and focusing and full control over logic make AngularJS very popular among the advanced IT world.",
+        "image": "https://peoplentech.com.bd/storage/upload/file/GG7YwURk0Y9YbQ3WJnTtQ1DYgW98JZ2sdSMrpZzg.jpeg",
+        "name": "Andrea Piacquadio",
+        "AuthorImage": "https://images.pexels.com/photos/2770600/pexels-photo-2770600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "courseDate": "25-03-2022"
+    },
+    {
+        "id": 6,
+        "title": "Mastering on Laravel Framework",
+        "description": "Welcome to the Mastering on Laravel Framework course where you will learn everything related to Laravel. Laravel framework came from the PHP programming language & follows modern PHP’s object-oriented best practices and reduces time-to-market, enabling you to build robust web and API-driven mobile applications. The best part is this application can be automatically tested and deployed. Laravel is among the most popular PHP frameworks that help make this language easier to adopt. PHP is very popular due to its simplicity, speed and scalability and Laravel is a framework of PHP. This framework is widely adopted due to its simple and elegant syntax that eases the development process and simplifies routing, authentication, caching through built in templates, libraries and MVC architecture.",
+        "image": "https://peoplentech.com.bd/storage/upload/file/2LLcM1I5hcvtlhUoAzVHBbKLOLjLV2ViKVCsZmoA.jpeg",
+        "name": "mentatdgt",
+        "AuthorImage": "https://images.pexels.com/photos/1125028/pexels-photo-1125028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "courseDate": "25-04-2022"
     }
 ]
